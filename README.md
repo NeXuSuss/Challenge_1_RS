@@ -2,7 +2,7 @@
 
 ## Collaborative Filtering 
 
-We have uses two approchases: -
+We have uses two approaches: -
 
 # 1. User based Filtering
 
